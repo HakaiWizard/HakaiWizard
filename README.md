@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HakaiWizard
-- 👀 I’m interested in Web & Android Dev, AIML, and Opens ource of course.
+- 👀 I’m interested in Web & Android Dev, AIML, and Open source contributions is respective domians.
 - 🌱 I’m currently exploring the future of Tech.
 - 💞️ I’m looking to collaborate for any Open Source Projects.
 - 📫 Reach me on vasista.prk@gmail.com
